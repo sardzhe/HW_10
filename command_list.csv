@@ -22,3 +22,13 @@
    22  git merge develop
    23  git log
    24  history > command_list.csv
+   25  git add 
+   26  git commit -m "Added command list and other changes"
+   27  git status 
+   28  git add .
+   29  git commit -m "Fixed missing period in git add command"
+   30  git push
+   31  history > command_list.csv
+   32  [200~git add .
+   33  git status
+   34  history > command_list.csv
